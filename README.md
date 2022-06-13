@@ -1,2 +1,2 @@
 # youtube-data-api-visualisation
-Use Youtube Data API to get subscriber count increase over the past 5 years
+Use Youtube Data API to visualise subscriber statistics of youtube channels
